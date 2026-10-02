@@ -1,0 +1,6 @@
+{
+  "name": "Our Wrapped 2026",
+  "description": "A Spotify Wrapped style couple retrospective celebrating your relationship milestones, listening personality, top moments, and inside jokes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
